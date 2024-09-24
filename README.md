@@ -1,10 +1,5 @@
 ![Header](github-header-image.png)
 
-===============================================================================================================================================
-
-Data Scientist
---------------
-
 🔭 I'm a second-year student of a Bachelor of Science in Data Science at Superior School of Computer Science (ESCOM - IPN). I come from a solid technical background in computer science; my area of focus and interest varies from algorithm & data structures to data analysis. I have been participating in different competitions and courses of competitive programing and research works, which developed a wide range of skills that would meet and fit the expectations for the role. Being involved in the computer science field, I have acquired a deep love for everything about algorithms and data science
 
 # Data Scientist Skills
