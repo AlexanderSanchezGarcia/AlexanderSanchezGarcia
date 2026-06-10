@@ -8,7 +8,7 @@
 - 🌱 **Learning & exploring** quantum embeddings, kernel methods, and scalable ML pipelines.
 - 🎯 **Goal:** pursue quantum computing research through a European master's program, followed by a PhD.
 - 🤝 **Open to** collaborations in QML, data science, and research-oriented projects.
-- ⚡ **Fun facts:** I'm into cosmology & astronomy, and I unwind with some Left 4 Dead 2.
+- ⚡ **Fun facts:** I'm into cosmology & astronomy
 
 ---
 
