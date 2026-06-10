@@ -55,11 +55,8 @@
 | Project | Description | Tech |
 |---|---|---|
 | **⚛️ Quantum-Classical Hybrid Pipeline (Thesis)** | Breast cancer prediagnosis combining quantum machine learning with classical deep learning. Includes quantum embedding evaluation via KTA and Geometric Difference metrics. | `Qiskit` · `PyTorch` · `QML` |
-| **🩺 Deep Learning for Mammography** | Classification on the CBIS-DDSM dataset, implemented under a NumPy-only constraint to understand the math from the ground up. | `NumPy` · `Deep Learning` |
 | **🎉 Qiskit Fall Fest 2025** | Organized IPN's edition of the global Qiskit Fall Fest — talks, workshops, and a hackathon introducing students to quantum computing. | `Qiskit` · `Community` |
 | **🚇 Big Data with PySpark** | Distributed processing practices on real datasets (Metro CDMX, Adult Income) exploring scalable data pipelines. | `PySpark` · `Big Data` |
-
-> 📌 *Pin these repos on your profile and link them here so visitors can dive straight in.*
 
 ---
 
